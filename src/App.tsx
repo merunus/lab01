@@ -18,6 +18,7 @@ function App() {
         >
           <h1>Lab Number 1</h1>
           <p>Adding some domestic changes</p>
+          <p>Adding some more domestic changes to another branch</p>
         </a>
       </header>
     </div>

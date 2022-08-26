@@ -1,6 +1,10 @@
 # Lab 01 - Working with GitHub
 # Getting Started with Create React App
 
+# 18 Step: 
+![image](https://user-images.githubusercontent.com/95978902/186832989-bcbfd8ac-8691-4f16-9e9b-afaca8b29a63.png)
+![image](https://user-images.githubusercontent.com/95978902/186833449-15acde07-4a9c-41a2-b026-9cb79f4d844d.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -33,6 +37,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-### 18 Step: 
-![image](https://user-images.githubusercontent.com/95978902/186832989-bcbfd8ac-8691-4f16-9e9b-afaca8b29a63.png)
+
 
